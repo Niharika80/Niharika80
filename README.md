@@ -36,8 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-### [Malware Analysis Lab](https://github.com/Niharika80/Malware-Analysis-Lab)
-- To study how malicious code behaves once executed, and how tools like Sysmon + Splunk can help in detection and analysis.
+### [My Home Lab](https://github.com/Niharika80/Malware-Analysis-Lab)
+- To set up a home lab which study how malicious code behaves once executed, and how tools like Sysmon + Splunk can help in detection and analysis.
 
 ### [pfSense Firewall](https://github.com/Niharika80/pfSense-Firewall-Lab)
 - Demonstrates setting up a network-based pfSense firewall in a virtualized environment (VirtualBox) to manage and secure network traffic.
