@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill | Associated Project |
 |-------|------------------|
-| Malware Analysis using Splunk + Sysmon | [Malware Analysis Lab](https://github.com/Niharika80/Malware-Analysis-Lab) |
+| Home Lab | [Home lab](https://github.com/Niharika80/Malware-Analysis-Lab) |
 | Network Traffic Analysis using Wireshark| [Network Lab](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders) |
 | Pcap Analysis | [Pcap analysis](https://github.com/Niharika80/HawkEye-Lab-CyberDefenders) |
 | Build a Firewall using PfSense | [Firewall Lab](https://github.com/Niharika80/pfSense-Firewall-Lab) |
